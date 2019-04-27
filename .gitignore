@@ -1,0 +1,5 @@
+.idea/
+migrations/
+__pycache__/
+name_data.tsv
+title_data.tsv

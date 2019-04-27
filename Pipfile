@@ -1,0 +1,18 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+pandas = "*"
+psycopg2 = "*"
+flask-psycopg2 = "*"
+psycopg2-binary = "*"
+flask-restful = "*"
+flask-marshmallow = "*"
+flask-migrate = "*"
+
+[requires]
+python_version = "3.7"
